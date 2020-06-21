@@ -1,0 +1,31 @@
+body{
+    font-family: 'Saira Condensed', sans-serif;
+}
+h1{
+    color: darkslategray;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 40px;
+}
+h2{
+    color: darkslategray;
+    font-family: 'Pacifico', cursive;
+
+}
+.name-light{
+    color: darkblue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 40%;
+    float: center;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.bg-clr{
+    background-color: lightcyan;
+}
