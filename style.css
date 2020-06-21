@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Saira Condensed', sans-serif;
 }
 h1{
@@ -23,9 +24,17 @@ h2{
 .half-width img{
     width: 40%;
     float: center;
-    margin-top: 10%;
-    margin-left: 20%;
+    margin-top: 12%;
+    margin-left: 25%;
 }
 .bg-clr{
     background-color: lightcyan;
+}
+.top-banner{
+    background-image: url(images/Background.jpg);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 1000px;
 }
