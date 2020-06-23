@@ -13,7 +13,7 @@ h2{
 
 }
 .name-light{
-    color: darkblue;
+    color: rgb(14, 14, 37);
 }
 .half-width{
     width: 40%;
@@ -22,7 +22,7 @@ h2{
     padding-left: 2%;
 }
 .half-width img{
-    width: 40%;
+    width: 50%;
     float: center;
     margin-top: 12%;
     margin-left: 25%;
@@ -36,12 +36,30 @@ h2{
     
 }
 section{
-    height: 1000px;
+    height: 300px;
+    padding-bottom: 150px;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, magenta, mediumorchid);
+    background-image: linear-gradient(45deg, rgb(85, 76, 85), rgb(59, 54, 65));
     padding: 7px 14px;
     border-radius: 5px;
     color: white;
 }
+
+.last img{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+    
+.last2{
+    width: 54%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 0px;
+    padding-left: 2%;
+}
+
