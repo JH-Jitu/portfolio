@@ -7,13 +7,23 @@ h1{
     font-family: 'Odibee Sans', cursive;
     font-size: 40px;
 }
-h2{
+.writing{
     color: darkslategray;
     font-family: 'Pacifico', cursive;
 
 }
-.name-light{
+.black-light{
     color: rgb(14, 14, 37);
+}
+.gray-light{
+    color: rgb(116, 119, 124);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+.gray2-light{
+    color: rgb(56, 47, 61);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
 }
 .half-width{
     width: 40%;
@@ -63,3 +73,10 @@ section{
     padding-left: 2%;
 }
 
+.ordhek{
+    width: 40%;
+    float: left;
+    margin-top: 3%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
