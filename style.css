@@ -105,11 +105,11 @@ section{
 }
 #full-stack-baby{
     border-top: 7px solid;
-    background-image: linear-gradient(45deg, rgb(191, 220, 248), rgb(201, 213, 230));
+    background-image: linear-gradient(45deg, rgb(236, 246, 255), rgb(206, 210, 216));
     border-image-slice: 1;
 }
 #full-stack-babys{
     border-top: 7px solid;
-    background-image: linear-gradient(45deg, rgb(191, 220, 248), rgb(201, 213, 230));
+    background-image: linear-gradient(45deg, rgb(236, 246, 255), rgb(206, 210, 216));
     border-image-slice: 1;
 }
