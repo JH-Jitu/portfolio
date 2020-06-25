@@ -21,7 +21,7 @@ h1{
     font-size: 20px;
 }
 .gray2-light{
-    color: rgb(56, 47, 61);
+    color: rgb(220, 209, 226);
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
 }
@@ -78,15 +78,19 @@ section{
 }
 
 .ordhek{
-    width: 40%;
+    color: white;
+    width: 38%;
     float: left;
     margin-top: 3%;
     margin-left: 5%;
-    padding-left: 2%;
+    padding: 1%;
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 5px;
+    box-sizing: content-box;
 }
 
 .exp-area{
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .experience{
     margin-top: 1%;
@@ -99,4 +103,9 @@ section{
 }
 .bg-clr{
     margin: -1%;
+}
+#full-stack-baby{
+
+    background-image: linear-gradient(45deg, rgb(27, 11, 49), rgb(143, 143, 150));
+    border-image-slice: 1;
 }
