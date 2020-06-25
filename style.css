@@ -79,7 +79,7 @@ section{
 }
 
 .ordhek{
-    width: 38%;
+    width: 40%;
     float: left;
     margin-top: 3%;
     margin-left: 5%;
@@ -90,11 +90,11 @@ section{
 }
 
 .exp-area{
-    margin-top: 1%;
+    margin-top: 3%;
 }
 .experience{
-    margin-top: 5%;
-    margin-left: 45%;
+    margin-top: 8%;
+    text-align: center;
     font-family: 'Odibee Sans', cursive;
     font-size: 30px;
 }
@@ -115,5 +115,5 @@ section{
     border-image-slice: 1;
 }
 footer p{
-    margin-top: 20%;
+    margin-top: 25%;
 }
