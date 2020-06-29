@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     margin: 0;
     font-family: 'Saira Condensed', sans-serif;
@@ -26,13 +29,13 @@ h1{
     font-size: 25px;
 }
 .half-width{
-    width: 40%;
+    max-width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img{
-    width: 50%;
+    max-width: 50%;
     float: center;
     margin-top: 12%;
     margin-left: 25%;
@@ -45,6 +48,8 @@ h1{
 }
 .top-banner{
     background-image: url(images/Background6.jpg);
+    background-size: cover;
+    background-position: center top;
     background-repeat: no-repeat;
     
 }
@@ -64,32 +69,37 @@ section{
 }
 
 .last img{
-    width: 25%;
+    max-width: 25%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+    margin-top: 2%;
     
 }
     
 .last2{
-    width: 54%;
+    max-width: 54%;
     float: left;
     margin-left: 5%;
     margin-top: 0px;
     padding-left: 2%;
+    margin-top: 2%;
 }
 
 .ordhek{
-    width: 40%;
+    max-width: 40%;
     float: left;
     margin-top: 1%;
     margin-left: 5%;
     padding: 1%;
     box-shadow: 20px 20px 40px gray;
-    border-radius: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     box-sizing: content-box;
 }
-
+.clr{
+    clear: both;
+}
 .exp-area{
     margin-top: 1%;
 }
@@ -118,5 +128,5 @@ section{
     border-image-slice: 1;
 }
 footer p{
-    margin-top: 32%;
+    margin-top: 5%;
 }
