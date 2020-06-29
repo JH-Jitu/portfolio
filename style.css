@@ -67,6 +67,10 @@ section{
     margin-top: 3%;
     margin-bottom: 7%;
 }
+.link-button:hover{
+    color: white;
+    background: rgb(41, 41, 58);
+}
 
 .last img{
     max-width: 25%;
@@ -130,3 +134,4 @@ section{
 footer p{
     margin-top: 5%;
 }
+
