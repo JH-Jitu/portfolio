@@ -29,13 +29,13 @@ h1{
     font-size: 25px;
 }
 .half-width{
-    max-width: 40%;
+    max-width: 55%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img{
-    max-width: 50%;
+    max-width: 45%;
     float: center;
     margin-top: 12%;
     margin-left: 25%;
